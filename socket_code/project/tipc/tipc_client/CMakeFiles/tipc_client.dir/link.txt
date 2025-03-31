@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/tipc_client.dir/link.d CMakeFiles/tipc_client.dir/source/client.cpp.o -o /home/zgd/code/socket/bin/tipc_client

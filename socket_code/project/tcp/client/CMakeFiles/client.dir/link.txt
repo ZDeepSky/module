@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/client.dir/link.d CMakeFiles/client.dir/source/client.cpp.o -o /home/zgd/code/socket/bin/client
