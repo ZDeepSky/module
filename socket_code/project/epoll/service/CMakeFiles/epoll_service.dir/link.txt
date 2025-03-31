@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/epoll_service.dir/link.d CMakeFiles/epoll_service.dir/source/service.cpp.o -o /home/zgd/code/socket/bin/epoll_service
